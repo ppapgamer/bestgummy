@@ -1,0 +1,13 @@
+token.yaml
+gummy_data.pickle
+logs.txt
+ongoing_questions.pickle
+qn.png
+requirements.txt
+test.py
+bestgummy.py
+math_data.pickle
+rename_variables.py
+data/
+.vscode/
+__pycache__/
