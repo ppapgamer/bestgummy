@@ -30,7 +30,7 @@ Texlive can be installed via `apt install` on Ubuntu
 apt install texlive-latex-extra -y
 ```
 
-dviping can be installed via `apt install` on Ubuntu
+dvipng can be installed via `apt install` on Ubuntu
 ```
 apt install dvipng -y
 ```
